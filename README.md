@@ -1,7 +1,9 @@
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
-Test modification 1.
+
+-Test modification 1.
+-Test modification 2.
 
 ## 👉 Objectives
 
